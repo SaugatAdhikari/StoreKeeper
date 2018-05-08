@@ -17,6 +17,7 @@ AddGoods::~AddGoods()
     delete ui;
 }
 
+#add goods UI
 void AddGoods::on_save_clicked()
 {
     Login op;
