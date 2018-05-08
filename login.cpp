@@ -30,6 +30,7 @@ void Login::on_usra_clicked()
 
 }
 
+#admin button
 void Login::on_adbut_clicked()
 {
     QString username,password;
